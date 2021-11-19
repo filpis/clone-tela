@@ -110,7 +110,7 @@
     }
     
     .profile-informations {
-        padding: 8px 20px 20px 20px;
+        padding-top: 15px;
         background-color: #F4F4F4;
         display: flex;
         justify-content: center;
@@ -131,14 +131,14 @@
         font-family: 'Roboto Slab', serif;
         font-weight: 800;
         color: #353535;
-        margin-top: -31px;
+        margin-top: -30px;
         transition: .3s ease all;
     }
     
     #map {
-        width: 14px;
+        width: 12px;
         color: #626262;
-        margin-top: -5px;
+        margin: -5px -1px 0 0;
     }
     
     .local {
@@ -185,7 +185,6 @@
     
     .options {
         color: #b6b4b4;
-        
     }
     
     .arrows {
@@ -196,7 +195,6 @@
         border-radius: 10px;
         display: flex;
         flex-direction: column;
-        
     }
     
     .container-settings {
@@ -205,7 +203,7 @@
         display: flex;
         clear: both;
     }
-    /*Botão Dark Mode*/
+    /*Botão Drak Mode*/
     
     .switch {
         position: absolute;
@@ -289,7 +287,7 @@
     
     .back-page {
         color: #3E3E3E;
-        transform: translateY(43px);
+        transform: translateY(48px);
     }
     
     .designer {
